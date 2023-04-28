@@ -1,5 +1,5 @@
 # GalaxyDevNetwork 🌌 🖥️ 🌐
-![GalaxyDevNetwork Banner](GDN.png)
+![GalaxyDevNetwork Banner](https://raw.githubusercontent.com/galaxydevnetwork/.github/main/profile/GDN.png)
 ## What is this?
 GalaxyDevNetwork is a Multiverses with Universes that have Galaxies, let's say meme20200, the popular universe in GalaxyDevNetwork is meme20200,
 meme20200 has Galaxies like `meme20200 Wiki`, `meme20200 Teams`, some Universes do not have Galaxies like GalaxyDev.
