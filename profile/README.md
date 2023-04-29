@@ -15,11 +15,11 @@ Some repositories are not under the license like:
 
 All Logos that are created by GalaxyDevNetwork including: [GalaxyDevNetwork, GalaxyDevNetwork Docs, meme20200, meme20200 Wiki, meme20200 Discord, GalaxyDev] are under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
 ## Special Thanks to
+**Everyone** - For always being there.<br/>
 **[Cloudflare](https://cloudflare.com)** - For their awesome domain control, SSL, Web performance & CDN.<br/>
 **[Minehut](https://minehut.com)** - For their cool free Minecraft Server Hosting (Using since 2020).<br/>
 **[Github](https://github.com)** - For making our project more open and making the best for us. (That's where you are).<br/>
 **[Discord](https://discord.com)** - For making us the best community that we :heart: (You should join our [Discord Server](https://discord.gg/pvMdwVhekf)).<br/>
 **[Mintlify](https://mintlify.com)** - For their beautiful documentation.
-
 ## Links
 [Discord](https://discord.gg/pvMdwVhekf) - [Website](https://galaxydevnetwork.com)
